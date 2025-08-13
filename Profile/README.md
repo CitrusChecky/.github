@@ -41,7 +41,7 @@ Seiring perkembangan teknologi, metode **You Only Look Once (YOLO)** hadir sebag
 
 ## 🗂 Repository
 - [Mobile Development (Android)](https://github.com/CitrusChecky/CitrusChecky-MobileDevelopment)
-- [Machine Learning Model](https://github.com/CitrusChecky/CitrusChecky-MODEL)
+- [Deep Learning Model](https://github.com/CitrusChecky/CitrusChecky-MODEL)
 
 ---
 
