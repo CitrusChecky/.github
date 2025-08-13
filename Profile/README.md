@@ -1,6 +1,6 @@
 <h1 align="center">🍊 CitrusChecky | Deteksi Kebusukan Buah Jeruk Secara Real-Time 🍊</h1>  
 <p align="center">
-  <img src="https://github.com/username/citruschecky/blob/main/assets/logo.png" alt="CitrusChecky Logo" width="300" height="300">
+  <img src="https://github.com/CitrusChecky/.github/blob/main/Profile/logo%20citrus%20checky.png" alt="CitrusChecky Logo" width="300" height="300">
 </p>
 
 <p align="center">
