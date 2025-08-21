@@ -46,7 +46,11 @@ Seiring perkembangan teknologi, metode **You Only Look Once (YOLO)** hadir sebag
 ---
 
 ## 🎥 Video Demo  
-*Coming Soon*
+<p align="center">
+  <a href="https://youtube.com/shorts/9_WFHuoTwNk">
+    <img src="https://img.youtube.com/vi/Ok-KT-8Rl9Q/0.jpg" alt="Video Demo">
+  </a>
+</p>
 
 ---
 
