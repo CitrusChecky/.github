@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" />
   <img src="https://img.shields.io/badge/Model-YOLOv8n-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Akurasi-93%25-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lisensi-MIT-lightgrey?style=for-the-badge" />
 </p>
 
 ---
